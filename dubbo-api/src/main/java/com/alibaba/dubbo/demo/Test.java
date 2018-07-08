@@ -4,5 +4,6 @@ public class Test {
         public static void main(){
                 int i =0;
                 char a= 'a';
+                int j=9;
         }
 }
