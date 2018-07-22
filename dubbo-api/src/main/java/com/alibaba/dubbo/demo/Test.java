@@ -5,5 +5,6 @@ public class Test {
                 int i =0;
                 char a= 'a';
                 int j=9;
+                String str = "shanghaitao";
         }
 }
